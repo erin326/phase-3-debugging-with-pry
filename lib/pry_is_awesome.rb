@@ -1,3 +1,5 @@
+# must use require 'pry' in order to use pry 
+
 require 'pry'
 
 def prying_into_the_method
